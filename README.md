@@ -16,9 +16,6 @@ It tracks the location of the user, in order to provide help as soon as possible
 # Technology Stack:
 -Android Development Using Java
 
-# Presentation Link:
-
-
 # Contributors:
 
 - [Riya Mathur](https://github.com/Blitzcoder01)
