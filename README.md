@@ -1,7 +1,7 @@
-# THEME: WOMEN SAFETY
+
 
 # Women SafeZone - An Application for Women Safety
-<b>INTRODUCTION </b>
+
 
 A complete women safety mechanism is required, to make the country more safe for women. For fulfilling one of those aspects, we have came up with a project- <b> Women SafeZone </b>  
 Women SafeZone is an android application built for women saftey.
