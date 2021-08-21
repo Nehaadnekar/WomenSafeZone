@@ -15,6 +15,9 @@ It tracks the location of the user, in order to provide help as soon as possible
  
 # Technology Stack:
 -Android Development Using Java
+# Layout:
+![](img1.jpeg) &nbsp; ![](img2.jpeg) &nbsp;
+![](img3.jpeg)   &nbsp;  ![](img4.jpeg)   &nbsp;  ![](img5.jpeg)
 
 # Contributors:
 
