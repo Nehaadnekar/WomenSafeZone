@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PeriodTracker">
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70px"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/calendarView"
+        android:layout_centerHorizontal="true"
+        android:text="Input period Last Date"
+        android:textColor="#0ABBD1"
+        android:textSize="22dp" />
+
+
+    <TextView
+        android:id="@+id/input_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView"
+        android:textSize="22dp"
+        android:ems="10"
+        android:inputType="date"
+        android:hint="Date" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/input_date"
+        android:layout_centerHorizontal="true"
+        android:text="Next possible Date"
+        android:textColor="#0ABBD1"
+        android:textSize="22dp" />
+
+
+    <TextView
+        android:id="@+id/output_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView2"
+        android:textSize="22dp"
+        android:ems="10"
+        android:inputType="date"
+        android:hint="Date" />
+
+
+    <Button
+        android:id="@+id/btnNotify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="600dp"
+        android:background="@drawable/round_button"
+        android:text="Remind me"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backnew"
+    tools:context=".SignUp">
+
+
+    <TextView
+        android:id="@+id/register"
+        android:layout_width="700dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/amarante"
+        android:text="Create Account"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+
+    <EditText
+        android:fontFamily="@font/amarante"
+        android:id="@+id/r_email"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Email:"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#FFC107" />
+
+    <EditText
+        android:fontFamily="@font/amarante"
+        android:id="@+id/r_contact"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/r_email"
+        android:ems="10"
+        android:hint="Phone Number:"
+        android:textColorHint="#FFC107"
+        android:layout_centerHorizontal="true"
+        android:inputType="phone" />
+
+    <EditText
+        android:fontFamily="@font/amarante"
+        android:id="@+id/r_password"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/r_contact"
+        android:hint="Password:"
+        android:textColorHint="#FFC107"
+        android:layout_centerHorizontal="true"
+        android:inputType="textPassword" />
+
+    <Button
+        android:fontFamily="@font/amarante"
+        android:id="@+id/r_button"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/r_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/round_button"
+        android:text="Register Me" />
+
+</RelativeLayout>

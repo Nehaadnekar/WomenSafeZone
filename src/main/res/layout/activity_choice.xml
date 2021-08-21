@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".ChoiceActivity">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#0ABBD1"
+        app:itemIconTint="@drawable/selector"
+        app:itemRippleColor="#FFFFFF"
+        app:itemTextColor="@drawable/selector"
+        app:menu="@menu/menu_buttons" />
+
+    <ImageView
+        android:id="@+id/imageViewVibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300px"
+        app:srcCompat="@drawable/vibration" />
+
+    <ImageView
+        android:id="@+id/imageViewLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        app:srcCompat="@drawable/share" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_below="@id/imageViewVibrate"
+        android:layout_width="wrap_content"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40px"
+        android:text="Police Alarm" />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_below="@id/imageViewLocation"
+        android:layout_width="wrap_content"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40px"
+        android:text="Share Location" />
+</RelativeLayout>
