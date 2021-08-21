@@ -7,10 +7,10 @@ A complete women safety mechanism is required, to make the country more safe for
 Women SafeZone is an android application built for women saftey.
 It tracks the location of the user, in order to provide help as soon as possible in the case of any emergency.
 
-# Features/Table of Contents:
+# Features:
 - Location Tracking
 - Location Sharing
-- Emergency Calling
+- Police Alarm
 - Period Tracker
  
 # Technology Stack:
