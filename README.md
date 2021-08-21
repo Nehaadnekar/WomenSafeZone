@@ -25,8 +25,8 @@ https://drive.google.com/drive/folders/1rse0ubHFr7SMnrC8wKrMo3M7uSF6KsJH?usp=sha
 
 # Contributors:
 
-- [Riya Mathur](https://github.com/Blitzcoder01)
 - [Neha Adnekar](https://github.com/Nehaadnekar)
+- [Riya Mathur](https://github.com/Blitzcoder01)
 
 # Contacts:
 Feel free to contact us if you have any further queries, at:
