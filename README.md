@@ -20,8 +20,8 @@ It tracks the location of the user, in order to provide help as soon as possible
 https://drive.google.com/drive/folders/1rse0ubHFr7SMnrC8wKrMo3M7uSF6KsJH?usp=sharing
 
 # Layout:
-![](img1.jpeg) &nbsp; ![](img2.jpeg) &nbsp;
-![](img3.jpeg)   &nbsp;  ![](img4.jpeg)   &nbsp;  ![](img5.jpeg)
+![](img1.jpg) &nbsp; ![](img2.jpg) &nbsp;
+![](img3.jpg)   &nbsp;  ![](img4.jpg)   &nbsp;  ![](img5.jpg)
 
 # Contributors:
 
