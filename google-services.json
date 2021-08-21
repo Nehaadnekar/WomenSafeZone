@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754018976090",
+    "project_id": "womensafety-9917f",
+    "storage_bucket": "womensafety-9917f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754018976090:android:469f902a786c74f942b363",
+        "android_client_info": {
+          "package_name": "com.neha.womensafezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754018976090-rhdconllvlj0arodtsohvigogmhkhja5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB2lgpJxXJc07brejuPQZrB_g0vC8Cj_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754018976090-rhdconllvlj0arodtsohvigogmhkhja5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
