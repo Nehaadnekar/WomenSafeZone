@@ -19,9 +19,9 @@ It tracks the location of the user, in order to provide help as soon as possible
 # Download APK from here (the link includes the presentation of the project):
 https://drive.google.com/drive/folders/1rse0ubHFr7SMnrC8wKrMo3M7uSF6KsJH?usp=sharing
 
-<!-- # Layout:
+# Layout:
 ![](img1.jpeg) &nbsp; ![](img2.jpeg) &nbsp;
-![](img3.jpeg)   &nbsp;  ![](img4.jpeg)   &nbsp;  ![](img5.jpeg) -->
+![](img3.jpeg)   &nbsp;  ![](img4.jpeg)   &nbsp;  ![](img5.jpeg)
 
 # Contributors:
 
