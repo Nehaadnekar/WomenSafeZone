@@ -16,7 +16,7 @@ It tracks the location of the user, in order to provide help as soon as possible
 # Technology Stack:
 -Android Development Using Java
 
-# Presentation Link:
+# Download APK from here (the link includes the presentation of the project):
 https://drive.google.com/drive/folders/1rse0ubHFr7SMnrC8wKrMo3M7uSF6KsJH?usp=sharing
 
 <!-- # Layout:
